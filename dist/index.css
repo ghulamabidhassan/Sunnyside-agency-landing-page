@@ -16,7 +16,7 @@ body {
 }
 
 .header {
-  background: url(/images/mobile/image-header.jpg);
+  background: url("./images/mobile/image-header.jpg");
   background-size: cover;
   height: 70vh;
   width: 100%;
@@ -370,7 +370,7 @@ body {
 }
 @media screen and (min-width: 85.375em) {
   .header {
-    background: url(/images/desktop/image-header.jpg);
+    background: url(./images/desktop/image-header.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
